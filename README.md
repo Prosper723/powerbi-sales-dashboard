@@ -50,3 +50,13 @@ Total Revenue, Total Gross Profit and Gross Profit Margin, and they respond to e
 
 **Chibuzo Prosper Onyiwe** · Business Technology, Manchester Metropolitan University ·
 [LinkedIn](https://www.linkedin.com/in/prosper-onyiwe)
+
+<img width="1917" height="817" alt="overall-sales" src="https://github.com/user-attachments/assets/4a80c2ef-ef37-4bee-9123-cc3c89080a7a" />
+<img width="1317" height="731" alt="KPI analysis" src="https://github.com/user-attachments/assets/dc7eba92-a851-40c4-9791-ad9b9e0e2805" />
+<img width="1326" height="735" alt="country sales analysis" src="https://github.com/user-attachments/assets/e4f03d11-b0fe-4168-90a0-8bc0c5c5d133" />
+## Key insights (Apr 2021 – Apr 2024)
+
+- **£10M total revenue** and **£1.19M gross profit**, a **12.1% gross margin**.
+- **EU is the largest market** at £2.6M, followed by APAC (£2.0M). Africa contributes the least.
+- **Technology is the top category** (37.4% of revenue), but the split is balanced: Furniture 31.6%, Office Supplies 31.0%.
+- Revenue peaked at about **£0.47M a month in early 2024**, but it swings sharply from month to month.
