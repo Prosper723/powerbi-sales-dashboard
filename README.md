@@ -52,11 +52,17 @@ Total Revenue, Total Gross Profit and Gross Profit Margin, and they respond to e
 [LinkedIn](https://www.linkedin.com/in/prosper-onyiwe)
 
 <img width="1917" height="817" alt="overall-sales" src="https://github.com/user-attachments/assets/4a80c2ef-ef37-4bee-9123-cc3c89080a7a" />
-<img width="1317" height="731" alt="KPI analysis" src="https://github.com/user-attachments/assets/dc7eba92-a851-40c4-9791-ad9b9e0e2805" />
-<img width="1326" height="735" alt="country sales analysis" src="https://github.com/user-attachments/assets/e4f03d11-b0fe-4168-90a0-8bc0c5c5d133" />
-## Key insights (Apr 2021 – Apr 2024)
+<img width="1162" height="642" alt="country sales analysis" src="https://github.com/user-attachments/assets/9b97302d-376c-4ee4-9f9d-6e7cecc3c570" />
+<img width="1165" height="647" alt="KPI Analysis" src="https://github.com/user-attachments/assets/d6a1a5d2-99cd-4b5d-b27f-ac4b50b9e5e6" />
 
-- **£10M total revenue** and **£1.19M gross profit**, a **12.1% gross margin**.
-- **EU is the largest market** at £2.6M, followed by APAC (£2.0M). Africa contributes the least.
-- **Technology is the top category** (37.4% of revenue), but the split is balanced: Furniture 31.6%, Office Supplies 31.0%.
-- Revenue peaked at about **£0.47M a month in early 2024**, but it swings sharply from month to month.
+## Key insights
+
+- **£15M total revenue** and **£1.75M gross profit**, a **12.0% gross margin** overall.
+- **EU is the strongest market**: the highest revenue and well above its KPI target. LATAM also beats its target.
+  **APAC is furthest below target**, followed by Africa, EMEA and Canada.
+- **4 of the 7 named sales directors beat their revenue target**, led by Anna Andreadi, Chuck Magee and Jack Lebron.
+- **Technology earns the most revenue** (around 37%) and has the highest average unit price (£136.88).
+  **Office Supplies makes up the majority of orders** in every market but has the lowest unit price (£36.44),
+  so it drives volume rather than value.
+- **Country drill-down:** for example, Brazil generated £1.53M of revenue at a 13.5% margin, with October the
+  most profitable month (20.2% margin).
