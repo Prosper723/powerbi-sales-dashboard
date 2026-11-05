@@ -1,7 +1,7 @@
 # Sales Performance Dashboard (Power BI)
 
 An interactive three-page Power BI report that tracks revenue, gross profit and margin across markets,
-countries, product categories and sales directors, and measures performance against revenue targets.
+countries, product categories and sales directors, and measures performance against revenue targets “Built on a sample dataset for a fictional company (Alibaba Trading).”.
 Built as part of my BSc (Hons) Business Technology at Manchester Metropolitan University.
 
 <!-- Add a screenshot of each page here, e.g.:
